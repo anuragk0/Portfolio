@@ -8,7 +8,7 @@
 
 
 ;; -------------------------------------------------------------------------
-;; ***** PORTFOLIO Layout starts *****
+;; ***** Portfolio Layout starts *****
 ;; -------------------------------------------------------------------------
 
 -- layout.base-layout:
@@ -16,7 +16,7 @@
 
 
 ;; ----------------------------------------------------------------
-;; ***** PORTFOLIO Header starts *****
+;; ***** Portfolio Header starts *****
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
@@ -26,21 +26,21 @@ header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link1: /portfolio
-header-item2-link: /portfolio/about
-header-item3-link: /portfolio/Blogs
-header-item4-link: /portfolio/projects
+header-item1-link1: /Portfolio
+header-item2-link: /Portfolio/about
+header-item3-link: /Portfolio/Blogs
+header-item4-link: /Portfolio/projects
 cta-item2: Resume
 cta-item2-link: /Portfolio/resume
 
 ;; ----------------------------------------------------------------
-;; ***** PORTFOLIO Header ends *****
+;; ***** Portfolio Header ends *****
 ;; ----------------------------------------------------------------
 
 
 
 ;; -----------------------------------------------------
-;; ***** PORTFOLIO Toast starts *****
+;; ***** Portfolio Toast starts *****
 ;; -----------------------------------------------------
 
 -- toast.stack:
@@ -48,13 +48,13 @@ title: Hello, I'm aspiring fastn developer based in India
 link: https://github.com/anuragk0
 
 ;; -----------------------------------------------------
-;; ***** PORTFOLIO Toast ends *****
+;; ***** Portfolio Toast ends *****
 ;; -----------------------------------------------------
 
 
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI starts *****
+;; ***** Portfolio Hero UI starts *****
 ;; ------------------------------------------
 
 -- ftd.container:
@@ -110,7 +110,7 @@ isNewTab: true
 
 
 ;; --------------------------------
-;; ***** PORTFOLIO Socials starts *****
+;; ***** Portfolio Socials starts *****
 ;; --------------------------------
 
 -- ftd.row:
@@ -139,7 +139,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.row
 
 ;; --------------------------------
-;; ***** PORTFOLIO Socials ends *****
+;; ***** Portfolio Socials ends *****
 ;; --------------------------------
 
 
@@ -158,7 +158,7 @@ width.fixed.px: 400
 -- end: ftd.container
 
 ;; ------------------------------------------
-;; ***** PORTFOLIO Hero UI ends *****
+;; ***** Portfolio Hero UI ends *****
 ;; ------------------------------------------
 
 
@@ -166,5 +166,5 @@ width.fixed.px: 400
 -- end: layout.base-layout
 
 ;; -------------------------------------------------------------------------
-;; ***** PORTFOLIO Layout ends *****
+;; ***** Portfolio Layout ends *****
 ;; -------------------------------------------------------------------------
