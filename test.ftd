@@ -1,0 +1,24 @@
+-- import: package/base-layout as layout
+-- import: package/header as navbar
+
+-- layout.base-layout:
+
+-- navbar.header:
+logo: $assets.files.images.logo.svg: 
+logoURL: /Portfolio
+header-item-1: Home
+header-item-2: About
+header-item-3: Experience
+headaer-item-4: Contact
+header-item-5: Projects
+header-item1-link1: /portfolio
+header-item2-link: /portfolio/about
+header-item3-link: /portfolio/experience
+header-item4-link: /portfolio/contacts
+header-item5-link: /portfolio/projects
+
+-- toast.stack:
+title: I am a FASTN Developer from India.
+link: https://github.com/anuragk0
+
+-- end: layout.base-layout
